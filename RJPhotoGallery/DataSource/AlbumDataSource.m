@@ -19,7 +19,7 @@
 {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:self.cellIdentifier
                                                             forIndexPath:indexPath];
-    cell.tag = indexPath.section * 10 + indexPath.row;
+    cell.tag = indexPath.section * 100 + indexPath.row;
     
     id item = [self itemAtIndexPath:indexPath];
     

@@ -502,6 +502,7 @@
 				EEC71A271BB4E7580092C62E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
